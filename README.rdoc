@@ -1,0 +1,7 @@
+== Natural Language Processing 
+NLP is a toy library for natural language processing writen in python. Is heavily inspired (a.k.a some copy / paste / refact) from https://github.com/mihneagiurgea/fmi.ldet and http://medialab.di.unipi.it/wiki/Wikipedia_Extractor
+
+== Technical Background
+
+For Language Detection Algorithms details, read:
+* Kranig, S. (2005). Evaluation of language identification methods. Bakalárska práca, Universität Tübingen, Nemecko. 
