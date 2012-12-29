@@ -14,10 +14,11 @@
 #  limitations under the License.
 #
 
-#
-# Download lastest wikipedia dumps bziped with all articles
-#
-# 
+"""Wikipedia Downloader:
+  Download lastest wikipedia database dumps bziped with all articles 
+  from determined languages
+
+"""
 
 import os
 import re
@@ -31,7 +32,7 @@ class WikipediaDownloader:
 	DATE_REGEX  = re.compile('href="([0-9]{4}[01][0-9][0-3][0-9])/"')
 
 	# ex. http://wikipedia.c3sl.ufpr.br/ptwiki/20121210/ptwiki-20121210-pages-articles-multistream.xml.bz2
-	URL_DUMP_FORMAT = '%s/%swiki/%s/%swiki-%s-pages-articles-multistream.xml.bz2'
+	URL_DUMP_FORMAT = '%s%swiki/%s/%swiki-%s-pages-articles-multistream.xml.bz2'
 
 	# ex. ptwiki-20121210-pages-articles-multistream.xml.bz2
 	OUTPUT_FILE_FORMAT  = '%swiki-%s-pages-articles-multistream.xml.bz2'
@@ -124,7 +125,7 @@ if __name__ == '__main__':
 	'id', 'it', 'ja', 'ko', 'lt', 'mk', 'ms', 
 	'nl', 'no', 'pl', 'pt', 'ro', 'ru', 'sh',
 	'sk', 'sl', 'sr', 'sv', 'th', 'tr', 'uk',
-	'vi', 'zh', ]
+	'vi', 'zh']
 
 	downloader = WikipediaDownloader(languages, 'downloads', True)
 	downloader.download()
