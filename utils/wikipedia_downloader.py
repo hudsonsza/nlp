@@ -124,7 +124,7 @@ if __name__ == '__main__':
 	'id', 'it', 'ja', 'ko', 'lt', 'mk', 'ms', 
 	'nl', 'no', 'pl', 'pt', 'ro', 'ru', 'sh',
 	'sk', 'sl', 'sr', 'sv', 'th', 'tr', 'uk',
-	'vi', 'zh', '', ]
+	'vi', 'zh', ]
 
 	downloader = WikipediaDownloader(languages, 'downloads', True)
 	downloader.download()
