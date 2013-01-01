@@ -1,0 +1,1002 @@
+4
+False
+000  559819
+ 000 555674
+0000 526679
+ je  411829
+ sa  377971
+ na  334836
+ pre 299112
+ých  265320
+ktor 263469
+ kto 239562
+ bol 219714
+ rok 216787
+ pri 198308
+a na 194510
+ého  191542
+ 00  190355
+ateľ 174680
+ v r 166676
+u 00 166646
+vate 159144
+a v  157890
+ naj 156103
+oku  148285
+ oby 147963
+obyv 144342
+byva 144260
+yvat 144180
+ku 0 141419
+roku 140976
+nie  137871
+nej  133291
+ovan 131196
+kej  128951
+a pr 128502
+a po 128284
+e po 125678
+ pod 124680
+ roz 124329
+eho  123388
+a 00 119950
+ pol 119891
+ do  116930
+uje  116890
+polo 116112
+ako  115117
+teľo 114120
+ ako 111950
+ poč 111749
+eľov 110232
+v ro 110043
+ných 109342
+sti  107599
+ľov  107420
+ obc 104828
+e je 104147
+oval 103479
+bol  103037
+a ob 102194
+e na 100831
+o po 100444
+ obe 100156
+ pro 98785
+e v  97550
+obec 97277
+a je 96250
+v ob 95446
+ádza 95261
+bec  93499
+ ale 93412
+ aj  92851
+ sta 91738
+ str 90507
+ený  90224
+e pr 89337
+pred 89073
+hádz 88268
+ spo 87743
+kom  87665
+chád 86590
+ v o 85533
+je p 85257
+och  83834
+sa n 82967
+skej 82685
+ensk 81776
+slov 81375
+ali  81334
+osti 81189
+ bod 80545
+ska  79982
+nia  79555
+stav 79040
+í bo 77962
+ a n 77724
+u na 77152
+sled 76958
+ala  75953
+ od  75330
+a a  75149
+ po  74932
+kých 74912
+bod  74625
+ší b 74323
+ jed 74108
+00 s 74046
+ má  73874
+nom  73664
+je v 73653
+klad 73620
+ kon 72992
+love 72636
+ného 71966
+ slo 71795
+stvo 71521
+o pr 70697
+ prí 70505
+torý 69871
+ov v 69481
+ch p 69198
+ a p 69079
+tvo  69029
+tick 68982
+val  68850
+ mes 68824
+ čas 68593
+ich  68560
+ fra 68317
+torá 68208
+dza  67579
+ pos 67494
+orá  67379
+enie 67022
+mest 66977
+kov  66650
+fran 66303
+kého 66059
+vých 65113
+ v s 64829
+ nac 64803
+oven 64691
+nach 64367
+ veľ 64012
+najv 63470
+osť  63363
+ svo 63326
+ický 63129
+svoj 62990
+achá 62941
+toré 62923
+ment 62894
+jeho 62828
+nost 62815
+ jeh 62627
+ožen 62309
+ola  61857
+ranc 61680
+u v  61615
+ v p 61427
+ujúc 61109
+00 m 61040
+ v d 59733
+osta 59063
+na s 58752
+anie 58661
+ch s 58610
+júci 58562
+ pra 58317
+je n 58102
+00 a 58001
+tom  57982
+ami  57676
+ sú  57589
+e a  57455
+prie 57418
+e sa 57215
+jedn 57093
+vens 56809
+u a  56474
+ nie 56341
+vej  56315
+ prv 56273
+prav 56216
+pre  56013
+ nas 55811
+sku  55601
+ené  55546
+om p 55327
+v v  55254
+lože 55130
+ že  54743
+j po 54544
+ a v 54518
+ za  54303
+ej s 54022
+stre 53943
+ho p 53931
+ina  53914
+cie  53799
+lebo 53750
+a za 53634
+ebo  53600
+00 n 53539
+a st 53419
+ vo  53372
+00 p 53371
+toro 53292
+esto 53064
+oré  53031
+ným  53009
+obra 52653
+e 00 52427
+ mal 52312
+ný a 52303
+ancú 52172
+ncúz 52162
+a sa 51911
+ych  51650
+bola 51577
+ické 51420
+aleb 51328
+teľs 51306
+iny  51294
+0 00 51210
+iest 50985
+ch v 50837
+rozl 50744
+úzsk 50743
+sa v 50732
+cúzs 50697
+ nov 50500
+ med 50450
+rom  50448
+roko 50418
+tvor 50360
+nou  50185
+stro 50095
+vyšš 49983
+emen 49697
+spol 49539
+ajú  49377
+ili  49260
+orý  49123
+ová  48964
+a do 48913
+00 o 48818
+ohu  48508
+stor 48489
+graf 48422
+ov a 48399
+chod 48232
+medz 48197
+obci 48193
+ovej 47981
+bci  47911
+á sa 47785
+ tak 47634
+lohu 47593
+stal 47548
+na p 47512
+á ro 47347
+pri  47267
+ená  47127
+u pr 47091
+vani 47089
+ými  47057
+nosť 47030
+m pr 47003
+ov o 46920
+eľst 46901
+ľstv 46785
+ý a  46687
+úci  46600
+ reg 46568
+ okr 46548
+om s 46542
+i pr 46458
+ozlo 46441
+ gra 46319
+na v 46245
+olo  46226
+part 46050
+braz 46013
+voj  45778
+zloh 45702
+y a  45665
+znam 45652
+ a s 45507
+ voj 45309
+e vý 45273
+asti 45258
+rá s 45234
+ka o 45067
+ajvy 44938
+za v 44858
+ nap 44706
+jvyš 44644
+ové  44643
+ne p 44618
+šie  44520
+d je 44491
+asle 44489
+bce  44440
+obce 44423
+má r 44421
+ský  44380
+nasl 44328
+u ob 44297
+00 v 44268
+čast 44119
+regi 44115
+sko  44044
+veľk 43967
+ente 43851
+cia  43795
+poče 43746
+sto  43685
+o 00 43582
+óne  43551
+jej  43279
+edzi 43133
+00 j 42958
+stra 42949
+enia 42779
+očet 42769
+ pot 42571
+00 0 42508
+v de 42484
+v pr 42482
+stup 42438
+e fr 42370
+v re 42249
+00 r 42229
+žený 42127
+sa p 42029
+ale  41974
+ansk 41952
+dujú 41946
+od o 41910
+ výv 41860
+a vy 41850
+nte  41584
+nske 41491
+aný  41137
+a ne 41121
+hodn 41105
+boli 41084
+yšší 41045
+ledu 41027
+eduj 40909
+vývo 40883
+čet  40883
+arte 40873
+oha  40863
+i po 40842
+oloh 40766
+oli  40683
+od j 40637
+zuje 40627
+gión 40605
+ sto 40581
+egió 40573
+ách  40565
+je f 40558
+i 00 40521
+ývoj 40478
+i na 40461
+ hla 40375
+ dep 40371
+i v  40261
+nižš 40254
+ to  40246
+kou  40171
+vaný 40170
+vo p 40110
+00 b 39965
+d ob 39917
+o je 39885
+hu n 39880
+okre 39873
+je t 39841
+om v 39817
+epar 39663
+ dru 39618
+ovýc 39501
+vať  39462
+ce j 39390
+ila  39379
+ zob 39241
+zska 39232
+edno 39223
+olož 39183
+počt 39117
+loha 38980
+i a  38772
+depa 38760
+šší  38697
+ec k 38688
+ióne 38672
+zobr 38669
+ne v 38612
+last 38610
+najn 38572
+ská  38475
+ vys 38463
+u po 38427
+ krá 38395
+svet 38393
+rov  38388
+sa s 38377
+ej p 38370
+ mar 38288
+ho s 38265
+ch a 38210
+ice  38187
+ej v 38180
+ zač 38136
+ mie 38131
+mies 38116
+ižší 38094
+c kt 38067
+a bo 38018
+teme 37835
+ie p 37828
+rtem 37791
+o na 37689
+ nem 37682
+0 ro 37678
+ajni 37593
+skéh 37539
+ané  37472
+tu o 37453
+ostr 37404
+azuj 37396
+om a 37354
+vali 37319
+ie s 37316
+jniž 37272
+žší  37224
+oj p 37190
+ dos 37186
+a ro 37144
+hlav 37026
+kraj 37021
+cké  36970
+alo  36911
+ový  36853
+t ob 36788
+v po 36771
+l v  36662
+ v k 36648
+ia p 36484
+ nes 36446
+kres 36433
+niek 36411
+et o 36356
+i gr 36283
+post 36283
+ec m 36274
+ až  36206
+razu 36151
+skom 36115
+ sve 36029
+trov 36002
+čtu  35989
+očtu 35895
+sta  35797
+v a  35787
+ha o 35779
+ckej 35642
+účas 35549
+y pr 35524
+ pov 35506
+ci g 35420
+vo v 35379
+00 k 35335
+tov  35293
+c má 35196
+raf  35164
+bolo 35143
+vom  35105
+ania 35061
+ v m 34948
+m a  34924
+ kom 34809
+ach  34781
+ kra 34706
+druh 34594
+tred 34587
+ozna 34422
+m po 34396
+a kt 34347
+a ma 34288
+ v t 34250
+álne 34208
+je s 34167
+ie v 34148
+v 00 34126
+y v  33894
+af z 33798
+f zo 33793
+ení  33735
+ jej 33702
+ obj 33673
+ia v 33654
+ sku 33340
+ch k 33336
+ku v 33267
+ra 0 33252
+skup 33227
+rick 33127
+ tu  33118
+ ďal 33058
+rých 33057
+a ko 33033
+o v  32868
+la v 32850
+ské  32830
+ov p 32830
+ poz 32818
+cký  32808
+ pla 32705
+o ro 32692
+isti 32645
+ tie 32607
+kým  32601
+ním  32556
+ pou 32529
+nova 32290
+ento 32147
+y na 32123
+ cel 32120
+práv 32084
+om k 32066
+na z 31956
+väčš 31912
+ a t 31846
+l na 31785
+a ve 31677
+náro 31654
+použ 31581
+tok  31538
+né p 31509
+ v b 31477
+šak  31418
+však 31403
+e do 31366
+ hra 31281
+ia s 31156
+zápa 31106
+lavn 31090
+dzi  30970
+esta 30955
+h pr 30866
+form 30817
+0 st 30803
+ie a 30802
+ men 30691
+ovať 30646
+ ich 30631
+i sa 30562
+na k 30519
+ho v 30490
+ojen 30389
+0 bo 30375
+žíva 30371
+pret 30331
+dne  30185
+rova 30183
+ujú  30173
+tran 30125
+0 ob 30120
+ v n 30105
+ko p 30057
+ria  30022
+star 29990
+ine  29979
+ilo  29954
+je o 29756
+nych 29679
+rodn 29638
+e ob 29613
+ne s 29600
+ par 29480
+ bra 29414
+tova 29386
+ a z 29312
+ovsk 29303
+ živ 29274
+dnej 29247
+užív 29176
+r 00 29151
+nsko 29147
+chov 29138
+sa z 29104
+ vša 28940
+ nad 28929
+orov 28844
+ zák 28833
+diel 28794
+ prá 28780
+dova 28773
+0 a  28770
+skýc 28751
+o sa 28686
+lne  28685
+ tom 28635
+ pom 28627
+ckýc 28621
+okov 28603
+udov 28477
+koch 28409
+ch o 28368
+odne 28345
+napr 28266
+ever 28198
+oroč 28174
+y po 28153
+isto 28146
+nský 28097
+c 00 28059
+la p 28034
+ov s 27921
+árod 27911
+ej k 27884
+sky  27871
+voje 27822
+0 pr 27813
+pres 27786
+y sa 27775
+raji 27747
+všet 27736
+ súč 27726
+v na 27722
+0 je 27716
+ vše 27688
+vané 27668
+tal  27581
+ vla 27571
+ch n 27555
+avil 27543
+prot 27506
+iteľ 27425
+aná  27391
+ný p 27390
+ obl 27371
+eden 27268
+ajúc 27244
+e me 27130
+li v 27056
+ maj 27053
+a od 27031
+ia a 27012
+m na 27003
+ a m 26990
+dobn 26964
+ekto 26917
+e ne 26909
+a z  26889
+00 d 26820
+e za 26811
+nov  26802
+ý pr 26761
+rovn 26753
+česk 26750
+om n 26746
+e bo 26712
+a sp 26695
+súča 26680
+ch d 26659
+u je 26586
+dnot 26561
+a me 26538
+len  26496
+lom  26465
+ích  26425
+stan 26405
+živo 26335
+red  26313
+seve 26302
+ne a 26283
+čas  26273
+e vy 26260
+ôsob 26223
+pôso 26221
+é pr 26144
+upin 26123
+aven 26117
+ch m 26116
+stic 26103
+ záp 26028
+ ved 26005
+icke 26003
+šetk 25982
+dľa  25978
+nesk 25939
+odľa 25896
+ čes 25852
+ keď 25833
+slav 25759
+la s 25742
+tky  25712
+ný v 25633
+kupi 25628
+ fil 25589
+ýcho 25528
+nejš 25511
+podľ 25489
+e od 25429
+znám 25427
+obja 25421
+ spr 25406
+astn 25345
+l pr 25287
+ej a 25267
+a sl 25247
+ bud 25240
+ sev 25229
+ por 25224
+ štá 25222
+ a o 25213
+ už  25207
+hrad 25192
+stat 25155
+ára  25102
+ hor 25083
+meno 25065
+al v 25055
+ poh 25051
+h 00 25038
+ch 0 25032
+viac 25023
+tva  24974
+poto 24962
+ov n 24938
+li p 24909
+časť 24900
+bjav 24854
+ cha 24844
+riem 24838
+ ost 24820
+enov 24799
+kde  24758
+vého 24683
+skôr 24630
+na j 24628
+l 00 24625
+kôr  24620
+vzni 24616
+vala 24605
+amen 24592
+amer 24562
+iež  24560
+ vzn 24558
+edy  24543
+tiež 24527
+ kar 24499
+znik 24473
+konc 24463
+ácie 24443
+ dvo 24413
+štát 24404
+dom  24389
+ kde 24385
+ôvod 24373
+ovi  24367
+ch r 24342
+é po 24335
+ dob 24305
+ďalš 24294
+ica  24278
+ho m 24257
+ zo  24196
+o ob 24187
+o st 24158
+pod  24148
+ou p 24124
+ pok 24061
+očas 24042
+ch z 24017
+oloč 24010
+ via 24002
+ava  23973
+ov 0 23942
+očia 23932
+znač 23927
+kráľ 23913
+ou s 23906
+ výs 23900
+ade  23899
+iel  23874
+cká  23872
+a vý 23820
+rati 23808
+aní  23802
+i je 23794
+ej r 23736
+vne  23729
+erov 23728
+aden 23718
+ivot 23712
+odob 23703
+oka  23699
+ a j 23691
+hran 23690
+auto 23634
+ ten 23629
+riad 23579
+ a 0 23543
+ cen 23539
+ toh 23539
+dost 23508
+ov z 23494
+00 z 23472
+a zá 23462
+ nár 23422
+rist 23411
+meri 23394
+ácia 23364
+ a k 23342
+m v  23325
+a s  23294
+ngc  23250
+ ngc 23249
+ a d 23224
+ so  23195
+gc 0 23167
+a te 23166
+tívn 23118
+ie n 23084
+ nep 23077
+ muž 23072
+je z 23070
+al s 23048
+neho 23004
+nské 22971
+v kt 22955
+h po 22941
+cent 22894
+cov  22878
+ápad 22862
+je m 22861
+ mat 22834
+okoc 22827
+na m 22812
+ova  22784
+poča 22781
+ for 22679
+0 v  22661
+0 ng 22654
+podo 22631
+ aut 22598
+vlád 22565
+a vo 22543
+prac 22452
+ho k 22451
+ťou  22436
+na t 22430
+vil  22414
+ pat 22409
+ších 22369
+reto 22335
+ákla 22315
+este 22300
+ let 22284
+okol 22274
+ka s 22269
+ tra 22267
+ mno 22263
+bra  22260
+krát 22250
+v sú 22244
+ému  22211
+patr 22209
+orsk 22209
+e st 22099
+na n 22085
+ ľud 22074
+ciu  22014
+vodn 22008
+y je 22004
+ckéh 22001
+ tvo 21993
+vojn 21959
+keď  21958
+00 t 21955
+vede 21940
+poje 21884
+ si  21863
+s po 21862
+nove 21859
+roči 21855
+brat 21852
+čia  21812
+ou a 21789
+isla 21786
+obla 21780
+m sa 21779
+roka 21763
+om m 21715
+stri 21685
+kova 21679
+tie  21632
+na o 21619
+u sa 21609
+vrch 21609
+v ok 21596
+e ma 21592
+ met 21585
+ dom 21583
+to p 21578
+l po 21549
+ čo  21543
+ie j 21540
+ ho  21507
+ s p 21506
+ die 21485
+ náz 21472
+ min 21447
+mi p 21414
+s je 21398
+ rod 21393
+ne o 21377
+0 sa 21355
+ eur 21345
+ len 21337
+rne  21290
+o sv 21263
+kult 21251
+dné  21240
+embr 21239
+erne 21237
+o vy 21235
+etov 21227
+né v 21198
+om o 21183
+blas 21178
+ ver 21159
+eto  21143
+a to 21135
+e to 21105
+h a  21097
+ov k 21038
+ jan 21017
+ouží 21003
+prvý 20974
+li s 20968
+zača 20939
+nick 20935
+ou v 20931
+ej d 20931
+ sam 20908
+a sv 20873
+e ak 20864
+tali 20857
+poli 20841
+elen 20800
+tor  20796
+to s 20755
+roti 20755
+j pr 20730
+iky  20729
+e ro 20710
+inte 20690
+stva 20666
+ho o 20632
+om z 20628
+ý po 20606
+neme 20587
+iezd 20576
+estn 20555
+k v  20553
+oho  20533
+ne n 20524
+možn 20519
+zova 20492
+je 0 20487
+tak  20465
+sa o 20462
+asť  20451
+sťou 20434
+čnos 20422
+álny 20397
+m je 20389
+oren 20377
+arch 20357
+polu 20324
+anov 20238
+ejši 20235
+ická 20235
+vlas 20217
+ tri 20210
+eskô 20207
+o bo 20196
+nými 20171
+aprí 20164
+ky p 20135
+ man 20114
+javi 20099
+viez 20095
+ovéh 20091

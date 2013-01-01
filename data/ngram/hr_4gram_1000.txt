@@ -1,0 +1,1002 @@
+4
+False
+ je  1062036
+0000 596915
+ 000 577626
+000  566204
+ se  419886
+ na  388138
+ su  320873
+ koj 320613
+a je 313958
+ije  313596
+ pro 277557
+o je 266030
+ine  253256
+ima  249797
+e na 247961
+ pre 244348
+ od  243527
+ pri 239590
+a i  229752
+ 00  219037
+je p 218822
+e po 218082
+a po 217826
+ za  217591
+a na 217314
+a u  216717
+nja  206312
+e u  205262
+nje  202166
+godi 200055
+ god 193750
+ija  192988
+e pr 191568
+je s 190300
+odin 188300
+rije 184296
+ pos 182744
+a pr 182419
+a 00 180444
+e i  168824
+a ko 166927
+ski  160617
+kom  160062
+ da  155197
+je n 153939
+ili  153356
+koji 153023
+ sta 150922
+dine 150788
+je i 149119
+anje 147835
+jedn 147561
+je u 145373
+i na 144585
+oji  143677
+i su 143161
+nom  141127
+ina  139323
+i po 138780
+i pr 137521
+ske  137085
+00 g 136934
+e je 135044
+ena  132798
+kao  132667
+stav 131598
+osta 131400
+nih  130272
+ika  129354
+je o 128520
+sti  128351
+ali  128218
+0 go 127842
+ gra 126178
+ pod 125843
+ada  125669
+kog  125270
+ u s 124262
+ kao 123919
+ila  123236
+i u  122664
+grad 122313
+acij 121290
+a se 121206
+ama  120815
+ nje 120779
+i je 120253
+a za 120125
+stan 117260
+vije 116657
+e 00 116397
+nog  115920
+ iz  114926
+nost 113956
+nije 113860
+ nas 113319
+ana  112608
+iji  111934
+ jed 111196
+e za 110950
+u po 110937
+ova  109647
+i i  109128
+post 108709
+aju  108408
+ raz 108081
+ bil 107779
+iti  107758
+ako  107653
+o 00 105748
+ala  105081
+ naj 105033
+na p 104047
+ska  103944
+ i p 103285
+u pr 102605
+anja 102275
+je d 102224
+ te  102019
+vanj 101563
+e bi 101547
+ica  100845
+nim  100177
+ prv 100009
+kih  99898
+je b 99865
+e ko 99604
+skog 97370
+rvat 97334
+na s 96904
+ljen 96666
+koj  96230
+00 s 95948
+bio  95882
+osti 95828
+u na 95610
+atsk 94887
+e od 94618
+ svo 94062
+hrva 92983
+svoj 92645
+ hrv 92530
+ u p 91863
+ do  91582
+a ka 90892
+oje  90486
+a iz 90105
+ati  89759
+nika 89435
+i se 89381
+o pr 89043
+e do 88909
+cija 87587
+ice  87488
+ dru 86366
+cije 86148
+ i s 85965
+e se 85845
+o na 85735
+ pov 84708
+ bio 84685
+e su 84667
+o po 84513
+jest 83519
+ ima 83449
+ kra 82650
+ava  82643
+ansk 82213
+vats 82121
+je k 81993
+a od 81768
+ pol 81630
+stra 81300
+jem  81123
+koje 80804
+anov 80797
+iju  80684
+ sa  80266
+ str 79831
+ijel 79671
+njeg 79662
+što  79628
+ici  78920
+avlj 78629
+a su 78260
+ ist 77677
+je j 77478
+e ka 76707
+isti 76478
+akon 76444
+ovni 76289
+ vel 75968
+ijsk 75960
+u ko 75736
+iran 75718
+u i  75718
+u u  75382
+pred 75341
+a sv 74925
+u je 74827
+asta 74661
+e iz 74564
+ ili 74316
+prav 74152
+i ko 73312
+o u  73272
+lja  73238
+ i n 73230
+i za 73210
+i 00 73074
+je t 72685
+kim  72632
+drug 72566
+egov 72549
+oja  72146
+ sve 72112
+nako 71927
+ što 71882
+na k 71853
+ini  71733
+ nak 71700
+u se 71234
+novn 71230
+nju  71058
+li s 71021
+ sam 70273
+kon  69971
+ji s 69878
+ pot 69591
+a do 69570
+skoj 68715
+u 00 68680
+njem 68663
+ja s 68565
+isto 68525
+prem 68310
+ dan 68122
+je z 68056
+veli 67947
+ kon 67944
+ gla 67381
+da s 67306
+ tak 67182
+drža 67131
+ata  66788
+na i 66557
+lje  66239
+ene  66175
+u za 65838
+io j 65581
+se n 65502
+ rad 65453
+ijek 65210
+jedi 65164
+ove  64978
+nski 64906
+a bi 64631
+skom 64562
+ i d 64298
+eni  64228
+od 0 64100
+telj 64077
+lazi 64060
+n je 63843
+ne s 63780
+među 63628
+o i  63618
+om p 63451
+skih 63419
+su s 63415
+tano 63259
+a te 63218
+ost  62903
+a st 62813
+rani 62702
+ u k 62493
+rist 62429
+da j 62244
+edno 62129
+ela  62113
+o se 62103
+ nek 62049
+i ka 61908
+oga  61897
+a sa 61896
+om s 61879
+elik 61876
+ne p 61841
+ bro 61811
+d 00 61721
+tsko 61624
+jelo 61348
+na o 61301
+liko 60971
+ nov 60875
+djel 60806
+jego 60761
+ara  60749
+uje  60734
+00 p 60712
+stal 60519
+rija 60314
+ema  60241
+a ra 60026
+je 0 59942
+na n 59934
+nsko 59867
+prij 59610
+elje 59533
+ovi  59071
+ svi 59046
+nik  59042
+0 st 58981
+ dob 58843
+ živ 58621
+ vla 58358
+ pok 58313
+radi 58182
+ zap 58080
+ mje 57981
+edni 57778
+dana 57734
+tvo  57473
+nast 57443
+koja 57398
+se p 57048
+e st 57005
+ jez 56969
+e sa 56835
+dio  56805
+eno  56378
+vjet 56313
+ kor 56236
+lije 56232
+e da 56056
+azi  55950
+noj  55721
+ zna 55512
+na j 55474
+jezi 55431
+ane  55417
+tran 55414
+enje 55357
+e ra 55315
+i od 55125
+ po  55091
+tako 54997
+stva 54988
+i da 54707
+a ne 54590
+je v 54527
+ozna 54522
+ nap 54486
+ora  54459
+tva  54297
+mjes 54262
+nala 54128
+00 k 54063
+ički 53917
+ike  53877
+ tra 53834
+ pra 53812
+ja i 53581
+ dje 53476
+ to  53308
+tičk 53279
+dina 53192
+jeni 53189
+ani  53125
+ma p 53096
+ni s 53024
+ivan 52374
+i do 52287
+igra 51998
+govo 51893
+ sto 51713
+ ost 51617
+ma i 51616
+vom  51610
+ništ 51608
+ i o 51597
+samo 51526
+nici 51474
+i sa 51472
+njen 51142
+ranj 51111
+ao j 51052
+kraj 50887
+ih p 50858
+rema 50707
+emen 50591
+ već 50413
+je m 50353
+opis 50276
+ilo  50246
+a da 50228
+olje 50181
+ nij 50098
+tije 49980
+na t 49895
+i iz 49834
+e mo 49820
+ u n 49677
+ržav 49663
+m po 49642
+ja p 49471
+jski 49285
+e ne 49066
+ i k 48937
+ja j 48932
+aka  48849
+ne i 48818
+bila 48738
+glav 48716
+ji j 48275
+ oko 48263
+ fil 48037
+og p 48004
+je r 47981
+čki  47974
+na u 47928
+ pop 47703
+arsk 47567
+esto 47565
+selj 47480
+ tre 47472
+to j 47449
+la j 47401
+ sre 47379
+dije 47285
+ma s 47269
+ ali 47146
+ sje 47045
+ nal 47021
+novi 46770
+i st 46720
+m pr 46641
+odno 46446
+ izv 46347
+a ma 46308
+om i 46285
+no s 46208
+jih  46090
+kori 46083
+ovan 45944
+ti s 45887
+insk 45854
+enja 45821
+ poč 45787
+alaz 45754
+ijen 45732
+ju s 45693
+podr 45659
+m je 45475
+tski 45445
+a a  45417
+00 m 45407
+stvo 45316
+tom  45273
+vlja 45252
+ rat 45239
+sred 45228
+nica 45178
+sta  45153
+posl 44999
+star 44975
+u sv 44870
+osto 44752
+lova 44738
+og s 44635
+ona  44631
+i ra 44629
+u sa 44622
+alo  44622
+dan  44597
+ poz 44583
+ i u 44529
+u ka 44385
+edin 44368
+e os 44311
+ igr 44305
+ kak 44224
+ih s 44108
+tali 44039
+ kar 43974
+ogra 43819
+e sv 43807
+ por 43767
+na d 43696
+skim 43640
+sto  43528
+ spo 43513
+čke  43501
+ja 0 43496
+ u o 43410
+ pje 43332
+ nji 43331
+poče 43264
+broj 43226
+inu  43220
+o da 43109
+pozn 43068
+njih 43043
+nova 42954
+u st 42954
+ drž 42845
+ u r 42824
+znat 42788
+ par 42742
+više 42732
+ bi  42625
+kako 42600
+u od 42597
+era  42518
+ kad 42505
+asel 42478
+ijes 42467
+je g 42328
+prot 42316
+00 i 42303
+ pla 42217
+stoj 42146
+ dok 42136
+se u 42081
+rati 42051
+dnos 42033
+lavn 42028
+m i  42020
+im p 41996
+ u b 41952
+nase 41940
+ni p 41933
+su p 41913
+e te 41875
+dno  41817
+no p 41813
+oko  41752
+iše  41747
+ne u 41743
+povi 41439
+ rij 41374
+ kom 41370
+ mar 41348
+ ne  41276
+i ne 41264
+a kr 41257
+ u d 41236
+slav 41198
+avno 41195
+ne n 41158
+o za 41084
+ sas 41072
+ja u 41042
+ka i 41041
+esti 40955
+ne k 40892
+ fra 40682
+jeda 40666
+ka p 40636
+ i t 40614
+ voj 40606
+o su 40561
+alje 40559
+alno 40552
+sku  40530
+stup 40427
+ dij 40383
+ u t 40339
+ištv 40277
+eta  40276
+izvo 40243
+va i 40221
+ničk 40185
+m na 40185
+ mog 40088
+ja n 40072
+apad 40068
+jela 40041
+ovij 39903
+koli 39899
+ međ 39815
+i sv 39729
+a nj 39592
+stol 39574
+ zbo 39500
+se s 39467
+avni 39428
+om k 39380
+a mo 39371
+asni 39328
+bog  39303
+pros 39216
+ti i 39210
+ijan 39093
+eđu  39091
+amo  39086
+ijet 38989
+alni 38900
+jenj 38868
+itel 38849
+ičko 38816
+ovor 38689
+ vod 38650
+ući  38609
+jsko 38574
+la s 38502
+asti 38498
+skup 38445
+o od 38417
+arij 38408
+osno 38376
+ ga  38344
+jeno 38333
+niji 38329
+sast 38211
+jena 38192
+avan 38179
+sjed 38139
+lika 38083
+adu  38023
+etsk 38019
+svje 38014
+iona 37980
+ put 37962
+jeva 37749
+ mor 37745
+va s 37735
+ovo  37692
+jeve 37664
+vnik 37642
+rao  37637
+ijem 37614
+jima 37603
+no o 37585
+a os 37458
+ezik 37357
+to s 37349
+pada 37306
+usta 37261
+fran 37246
+iku  37221
+tivn 37185
+ naz 37154
+vog  37153
+ i m 37129
+mjer 37049
+zbog 37034
+ovim 37031
+pisa 37029
+se o 37015
+ijal 36989
+prvi 36977
+ tij 36953
+elja 36910
+nstv 36887
+u bi 36819
+manj 36754
+ka s 36752
+vrij 36749
+ zem 36708
+ viš 36694
+reds 36667
+jen  36545
+ime  36540
+a tr 36528
+ti p 36520
+rada 36517
+im s 36504
+ište 36490
+ralj 36453
+ kol 36414
+ obi 36382
+ stu 36297
+na 0 36275
+ale  36263
+na m 36255
+eća  36195
+slov 36172
+emlj 36162
+oris 36121
+rad  36113
+u do 36019
+ vri 36012
+anju 35998
+ usp 35998
+ka k 35975
+eme  35956
+jom  35953
+00 d 35939
+e go 35909
+joj  35813
+ lju 35754
+živo 35750
+e ob 35728
+ rep 35633
+vima 35617
+veći 35591
+kral 35567
+jim  35542
+ma k 35486
+ nar 35459
+vlje 35451
+ja k 35449
+ma n 35387
+ kri 35378
+a ve 35359
+film 35356
+ju p 35327
+ovin 35277
+ slu 35267
+dje  35235
+mogu 35206
+ne o 35132
+a ta 35126
+kada 35090
+ ime 35056
+0 00 35051
+ijed 35036
+e im 34997
+ever 34994
+enta 34948
+erij 34880
+edan 34875
+nice 34799
+00 u 34747
+ odr 34707
+e ta 34705
+ovje 34677
+ira  34676
+ svj 34524
+ slo 34495
+odru 34469
+čno  34360
+stič 34351
+va p 34302
+vih  34279
+ man 34278
+do 0 34259
+e ma 34219
+onal 34167
+oju  34119
+ljeć 34075
+mije 34002
+ti n 33979
+ u z 33951
+poli 33933
+voji 33891
+o bi 33876
+omet 33864
+voj  33809
+zeml 33792
+najv 33770
+ u m 33724
+e re 33715
+vodi 33660
+ivot 33593
+aziv 33587
+a is 33586
+a gr 33556
+ista 33536
+redn 33477
+io s 33460
+prim 33459
+ mož 33454
+dnik 33445
+vno  33443
+ke p 33413
+est  33407
+a re 33385
+00 0 33355
+ko s 33332
+rsko 33323
+vao  33277
+a s  33243
+tolj 33242
+om n 33237
+u iz 33225
+tvor 33213
+raju 33197
+ osn 33194
+reme 33188
+u ra 33131
+rvi  33123
+rana 33088
+od n 33027
+eći  33019
+oj s 32993
+dobi 32941
+ alb 32920
+druč 32912
+a pa 32893
+tvar 32788
+o do 32730
+na z 32712
+etni 32690
+aje  32683
+00 n 32678
+amer 32677
+tavl 32668
+e gr 32559
+olik 32545
+ao i 32534
+rata 32523
+tava 32516
+ručj 32476
+ sli 32475
+ma u 32439
+naro 32426
+sko  32419
+pod  32393
+je a 32385
+ poj 32346
+om d 32295
+om o 32292
+ vje 32250
+i ma 32239
+ojim 32217
+jeko 32200
+meri 32190
+ravn 32174
+tim  32166
+a dr 32137
+mena 32129
+no j 32110
+a ob 32108
+naln 32099
+e kr 32054
+i te 31969
+čka  31967
+sjev 31881
+ju i 31792
+anij 31757
+bili 31741
+rane 31730
+za p 31702
+ u v 31697
+0 pr 31679
+cima 31679
+ opć 31649
+ki p 31636
+nji  31562
+blik 31561
+vni  31515
+sve  31509
+00 o 31447
+na v 31405
+ car 31392
+voje 31343
+ao s 31288
+pjes 31258
+ i b 31248
+la p 31225
+e tr 31206
+inje 31202
+a to 31200
+orij 31152
+znač 31104
+treb 31086
+e ve 31065
+ti u 31048
+i bi 31015
+ mal 30967
+nazi 30948
+vniš 30914
+ ras 30897
+li p 30870
+ tri 30844
+od s 30793
+ bit 30793
+ bra 30783
+ zag 30765
+ kod 30755
+iječ 30719
+arod 30688
+ično 30687
+iko  30669
+su n 30668
+gdje 30642
+teri 30596
+elov 30587
+vati 30528
+ko 0 30525
+eli  30493
+zapa 30487
+meta 30447
+ izm 30446
+žava 30430
+ pon 30380
+redi 30361
+i mo 30350
+rugi 30323
+ste  30283
+ obj 30250
+stru 30236
+rodn 30235
+esta 30233
+jeme 30223
+last 30223
+ kas 30222
+isu  30186
+ke s 30139
+o ka 30095
+van  30088
+ja o 30073
+jeća 30057
+o ko 30021
+ave  30006
+razl 29977
+gran 29919
+a ni 29862
+ i i 29828
+aja  29778
+a vr 29734
+stri 29702
+a go 29685
+nija 29648
+iva  29642
+vlad 29641
+ i z 29632
+na r 29621
+ašnj 29594
+enom 29585
+rski 29585
+ sad 29567
+na b 29543
+ijev 29540
+može 29535
+u da 29534
+ekom 29531
+li n 29495
+slje 29473
+su i 29469
+a no 29439
+ ind 29387
+ao p 29371
+jer  29341
+bilo 29335
+ i r 29311
+vori 29296
+ nad 29253
+jeg  29213
+ih i 29168
+dok  29144
+ju n 29121
+i kr 29100
+nogo 29092
+obit 29076
+vjer 29044
+i gr 29007
+kod  29004
+ još 28971
+ment 28932
+ke i 28927
+0 i  28893
+o sa 28890
+i dr 28886
+janj 28882
+jets 28852
+ sin 28842
+ože  28822
+ i v 28790
+kupi 28757
+ne 0 28727
+k je 28631
+atel 28614
+još  28612
+sa s 28606
+vio  28586
+o sv 28579
+jeli 28572
+te s 28563
+ener 28556
+ pob 28540
+euro 28536
+ljed 28499
+prom 28497
+ mno 28473
+tno  28437
+la i 28432
+ tur 28399
+aca  28389
+imen 28340
+osla 28336
+enu  28320
+ odl 28312
+ sus 28266
+ sku 28257
+a al 28170
+list 28126
+gova 28105
+ko j 28099
+vlas 28095
+ra i 28094
+ gdj 28076
+e vr 28074
+jući 28023
+ni i 28022
+u ne 28018
+mnog 27956
+ciju 27950
