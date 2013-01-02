@@ -40,7 +40,7 @@
 
   	trigram = NGram (3)
 	
-	for filename in os.walk ('/usr/share/dict/'):
+	for filename in os.listdir ('/usr/share/dict/'):
 		if os.path.isfile (filename):
 			trigram.processFile (filename)
 
