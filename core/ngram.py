@@ -54,7 +54,7 @@ import os
 import re
 import string
 import types
-
+import json
 
 def decode_utf8(s):
 	if isinstance(s, unicode):
@@ -65,7 +65,6 @@ def decode_utf8(s):
 class NGram:
 
 	translate_table = dict((ord(char), None) for char in string.punctuation)
-
 
 	def __init__(self, ngram=3, maintainCase = False):
 		self.ngram   = ngram
@@ -129,7 +128,23 @@ class NGram:
 				del self.grams[x]
 				self.endings[x[:-1]] -= value
 
- 
+ 	def toJson (self, tuples=None):
+
+		if isinstance (tuples, types.NoneType):
+			tuples = zip (self.grams.keys (), self.grams.values ())
+			# order by value descending
+			tuples.sort (key=lambda tuple: -tuple[1])
+
+		ngram  = str (self.ngram)
+		case   = str (self.maintainCase)
+
+		obj = {
+			'ngram': ngram,
+			'case': case,
+			'grams': tuples,
+		}
+		return json.dumps(obj)
+
 	def toString (self, tuples=None):
 
 		if isinstance (tuples, types.NoneType):
@@ -154,21 +169,6 @@ class NGram:
 		tuples  = self.top (n)
 
 		handler = codecs.open (filename, mode='w', encoding='utf-8')
-		handler.write (self.toString (tuples))
-		handler.close ()
-
-	def load (self, filename):
-		handler = open (filename)
-		ngram   = int (handler.readline ())
-		case    = (handler.readline ().strip () == 'True')
-
-		for line in handler.readline ():
-			gram = line[:ngram]
-			perc = int (line[ngram + 1:])
-
-			self.grams[gram] = perc
-
-		self.ngram        = ngram
-		self.maintainCase = case
-
+		# handler.write (self.toString (tuples))
+		handler.write (self.toJson (tuples))
 		handler.close ()
